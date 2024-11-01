@@ -6,6 +6,7 @@ import {
   marioPic,
   currPic,
   vacciPic,
+  kazePic,
 } from "./lib/utils";
 
 const Projects = () => {
@@ -51,6 +52,13 @@ const Projects = () => {
       imgSrc: vacciPic,
       viewSrc: "https://vacci-time.vercel.app/",
       sourceSrc: "https://github.com/Shreya904/Vacci-Time",
+    },
+    {
+      title: "KazeBlog",
+      description: "A minimalist platform for sharing insights and stories.",
+      imgSrc: kazePic,
+      viewSrc: "https://vacci-time.vercel.app/",
+      sourceSrc: "https://github.com/Shreya904/KazeBlog",
     },
   ];
 
